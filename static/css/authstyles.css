@@ -1,0 +1,13 @@
+body
+{
+    background: lightyellow;
+    color:blue;
+}
+.jumbotron
+{
+    background: lightgreen;
+    color:red;
+}
+ul,li{
+    float: inside;
+}
